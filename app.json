@@ -1,0 +1,12 @@
+{
+  "name": "Zooetic",
+  "displayName": "Zooetic",
+  "expo": {
+    "name": "Zooetic",
+    "slug": "Zooetic",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
